@@ -1,0 +1,9 @@
+.\objects\elog.o: ..\third_lib\EasyLogger-master\easylogger\src\elog.c
+.\objects\elog.o: ..\third_lib\EasyLogger-master\easylogger\inc\elog.h
+.\objects\elog.o: ..\third_lib\EasyLogger-master\easylogger\inc\elog_cfg.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\string.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\elog.o: E:\Keil5\Core\ARM\ARMCC\Bin\..\include\stdio.h
