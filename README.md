@@ -1,4 +1,5 @@
 # 基于FreeRTOS 与全异步架构的智能边缘终端
+#注意此readme非V1.0的裸机版本而是rtos（V2.0）版本
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCU-STM32F407VG-green?style=for-the-badge" alt="MCU">
