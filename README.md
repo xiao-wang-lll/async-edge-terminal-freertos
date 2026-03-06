@@ -1,5 +1,5 @@
 # 基于FreeRTOS 与全异步架构的智能边缘终端
-**注意此readme非V1.0的裸机版本而是rtos（V2.0）版本**
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/MCU-STM32F407VG-green?style=for-the-badge" alt="MCU">
@@ -20,7 +20,7 @@ English | [中文](README_CN.md)
 
 ---
 
-##  项目介绍
+##  项目介绍---**注意此readme非V1.0的裸机版本而是rtos（V2.0）版本**
 
 基于 **STM32F407VG** 和 **FreeRTOS** 的物联网智能边缘终端，实现在线实时时间显示、室内环境监测、网络天气数据、Wifi信息以及信号显示等功能。
 
